@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Nom/static/css/main.771fa732.css",
-    "main.js": "/Nom/static/js/main.379a222a.js",
+    "main.css": "/Nom/static/css/main.6f3b2018.css",
+    "main.js": "/Nom/static/js/main.26942d1f.js",
     "static/media/back-ground-image.png": "/Nom/static/media/back-ground-image.0fd6cc84b508e78e9fab.png",
     "static/media/pirulenrg.otf": "/Nom/static/media/pirulenrg.8cd956b0478c0e3dc882.otf",
     "static/media/logo250X250.png": "/Nom/static/media/logo250X250.3ab1b1ceabf05608090f.png",
@@ -13,7 +13,7 @@
     "static/media/arrowup.svg": "/Nom/static/media/arrowup.d4bf616c0abd6c6697bbed35ffbca56a.svg"
   },
   "entrypoints": [
-    "static/css/main.771fa732.css",
-    "static/js/main.379a222a.js"
+    "static/css/main.6f3b2018.css",
+    "static/js/main.26942d1f.js"
   ]
 }
