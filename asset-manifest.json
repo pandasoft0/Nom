@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Nom/static/css/main.3a0185d7.css",
-    "main.js": "/Nom/static/js/main.fb97d7b9.js",
+    "main.css": "/Nom/static/css/main.01a7a4ad.css",
+    "main.js": "/Nom/static/js/main.1e025931.js",
     "static/media/back-ground-image.png": "/Nom/static/media/back-ground-image.0fd6cc84b508e78e9fab.png",
     "static/media/pirulenrg.otf": "/Nom/static/media/pirulenrg.8cd956b0478c0e3dc882.otf",
     "static/media/logo250X250.png": "/Nom/static/media/logo250X250.3ab1b1ceabf05608090f.png",
@@ -10,12 +10,10 @@
     "static/media/tetiominalsimg.png": "/Nom/static/media/tetiominalsimg.a478a6cfa57d62061720.png",
     "static/media/tetiominalsimg2.png": "/Nom/static/media/tetiominalsimg2.08d13bfb9fa4c049a8d6.png",
     "index.html": "/Nom/index.html",
-    "static/media/arrowup.svg": "/Nom/static/media/arrowup.d4bf616c0abd6c6697bbed35ffbca56a.svg",
-    "main.3a0185d7.css.map": "/Nom/static/css/main.3a0185d7.css.map",
-    "main.fb97d7b9.js.map": "/Nom/static/js/main.fb97d7b9.js.map"
+    "static/media/arrowup.svg": "/Nom/static/media/arrowup.d4bf616c0abd6c6697bbed35ffbca56a.svg"
   },
   "entrypoints": [
-    "static/css/main.3a0185d7.css",
-    "static/js/main.fb97d7b9.js"
+    "static/css/main.01a7a4ad.css",
+    "static/js/main.1e025931.js"
   ]
 }
